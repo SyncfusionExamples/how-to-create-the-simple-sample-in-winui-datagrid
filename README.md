@@ -1,7 +1,7 @@
-# How to create the simple sample in WinUI DataGrid (SfDataGrid)?
+# How to create WinUI DataGrid (SfDataGrid)?
 
 ## About the sample
-This example illustrates how to create the simple sample in [WinUI DataGrid](https://www.syncfusion.com/winui-controls/datagrid) (SfDataGrid)?
+This example illustrates how to create [WinUI DataGrid](https://www.syncfusion.com/winui-controls/datagrid) (SfDataGrid)?
 
 [WinUI DataGrid](https://www.syncfusion.com/winui-controls/datagrid) (SfDataGrid) is used to display and manipulate tabular data. Its rich feature set includes functionalities like data binding, editing, sorting, filtering, and grouping. It has also been optimized to work with millions of records, as well as to handle high-frequency, real-time updates. 
 
